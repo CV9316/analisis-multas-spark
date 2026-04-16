@@ -1,0 +1,10 @@
+Datos utilizado en el proyecto:
+
+Fuente:
+https://www.datos.gov.co/resource/72nf-y4v3.csv
+
+Descripción:
+Este archivo contiene información sobre multas de tránsito, utilizado para el análisis en Apache Spark.
+
+Nota:
+El dataset no se incluye directamente en el repositorio para evitar archivos pesados. Se accede mediante la URL oficial.
